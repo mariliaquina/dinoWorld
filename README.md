@@ -1,3 +1,3 @@
 # dinoWorld
-Jornada IA Ebac
-alteração para mostrar o commit
+Jornada IA EBAC
+Criação de jogo Dino no Chrome
